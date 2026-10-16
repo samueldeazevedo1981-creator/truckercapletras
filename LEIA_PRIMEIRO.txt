@@ -1,0 +1,14 @@
+TRUCKER CAP LETRAS V1.4 — TESTE GUITAR PRO
+
+Extraia o ZIP e envie todos os arquivos ao GitHub.
+Vercel: Framework Other; Root Directory ./; Node 24.x; Install npm ci --ignore-scripts; Build npm run build; Output public.
+Não escolha public como Root Directory. Não há variáveis de ambiente.
+
+TESTE DO FORMATO .GP
+1. Abra o app conectado e aguarde a preparação off-line.
+2. Clique em Importar e selecione examples/EXERCICIO_TESTE_GUITAR_PRO.gp, incluído no ZIP.
+3. Confira a seleção de instrumento e as opções partitura/tablatura.
+4. Feche e reabra com a rede desligada.
+
+Este é um leitor em teste. Não inclui reprodução sonora nem edição das notas. Teste seus arquivos reais antes de adotar o recurso.
+O app mantém TXT, ChordPro, PDF, setlists, backup, modo palco e pedal.
