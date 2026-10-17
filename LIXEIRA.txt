@@ -1,2 +1,0 @@
-1.4.2: botão de lixeira visível em cada arquivo pessoal na lista. A exclusão pede confirmação e remove o arquivo da biblioteca e de todas as setlists. O arquivo original do dispositivo permanece. Mantida a correção de layout Guitar Pro 1.4.1.
-Atualize o projeto no GitHub, aguarde a publicação na Vercel e abra o app com internet para atualizar. Não apague os dados do navegador.
