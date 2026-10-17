@@ -1,0 +1,2 @@
+Correção 1.4.1: isolados os estilos de SVG da partitura dos estilos dos ícones. Preservadas dimensões e traços originais. Conferida a importação e geração de BB King Style.gp5 em três visualizações e duas larguras. Exibição no aparelho e pedal físico ainda precisam de validação.
+Atualize os arquivos do projeto no GitHub e aguarde a Vercel publicar. Abra o app com internet para receber a atualização. Não apague os dados do navegador.
