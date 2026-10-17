@@ -1,2 +1,0 @@
-1.6.2: eventos touchstart/move/end específicos para toque, impedindo que o navegador capture o arraste horizontal. Mantido mouse, pedal e botões. Gesto horizontal: esquerda avança e direita volta. Aviso quando há apenas uma página ou nos limites do documento. Simulação dos eventos de toque passou; uso real no celular ainda precisa de validação.
-Atualize o projeto no GitHub/Vercel. Abra o app com internet para receber atualização e feche/abra novamente se necessário. Não apague os dados.
