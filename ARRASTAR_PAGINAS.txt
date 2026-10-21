@@ -1,2 +1,0 @@
-No modo Página inteira · pedal, arraste para a esquerda para avançar e para a direita para voltar. Funciona com toque e arraste do mouse, em PDF, TXT e GP. Gestos curtos, verticais, cancelados ou multitoque não viram página. Mantidos pedal, botões e limites da mesma música. O gesto não muda a rolagem contínua.
-Atualize GitHub/Vercel e abra com internet para atualizar; não apague dados. Testes automatizados passaram. Gestos em aparelhos reais ainda precisam ser validados.
