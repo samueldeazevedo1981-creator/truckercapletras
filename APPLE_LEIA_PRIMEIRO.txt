@@ -1,0 +1,12 @@
+TRUCKER CAP LETRAS — 1.7.1 APPLE
+
+Publique os arquivos na Vercel ou em outro servidor HTTPS. O ZIP é para publicação: não abra index.html diretamente no app Arquivos.
+
+iPhone / iPad: abra o endereço no Safari > Compartilhar > Adicionar à Tela de Início. Abra pelo ícone e aguarde a confirmação de uso off-line.
+Mac: abra o endereço no Safari.
+Importar: escolha os arquivos pelo seletor Arquivos. PDFs novos abrem em página inteira para reduzir o uso de memória. TXT, ChordPro e Guitar Pro continuam disponíveis.
+Atualização: abra conectado, espere a instalação e feche e reabra o aplicativo para carregar o novo cache. Preserve o mesmo endereço de publicação para manter a biblioteca local. Faça backup antes de mudar de endereço ou apagar dados do Safari.
+
+Correções: compatibilidade Promise também no worker PDF; tela cheia padrão e prefixada com alternativa visual; seletor sem filtro que bloqueia extensões no iOS; limite de resolução de canvas; áreas seguras e altura da tela; instruções de instalação; rodapé de direitos autorais.
+
+Validação: testes automatizados de leitura, toque, rolagem, pedal, offline e compatibilidade das APIs. Não foi realizado teste físico em iPhone, iPad ou Mac. Versões antigas do Safari podem ter limitações; mantenha o sistema atualizado.

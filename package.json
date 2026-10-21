@@ -1,0 +1,17 @@
+{
+  "name": "trucker-cap-letras",
+  "version": "1.7.1",
+  "private": true,
+  "description": "Trucker Cap Letras \u2014 vers\u00e3o de teste com leitura Guitar Pro local.",
+  "type": "module",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "dev": "node scripts/serve.mjs",
+    "check": "node scripts/verify.mjs",
+    "build": "node scripts/verify.mjs",
+    "test": "node scripts/test.mjs"
+  }
+}
