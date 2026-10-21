@@ -1,9 +1,0 @@
-VERSÃO 1.7 — LUPA E SELETOR NA LEITURA
-
-No modo Página inteira · pedal aparecem a lupa e o botão Selecionar letra no alto à esquerda.
-Lupa: abre −, + e Ajustar; zoom de 100% a 250%. O zoom vale para a página exibida. Ao virar a página, retorna ao ajuste completo. Com zoom ativo, arrastar move o conteúdo ampliado; para virar pelo gesto, toque Ajustar. Pedal e botões continuam virando páginas.
-Selecionar letra: busca por título, artista ou tag, em todo repertório ou lista atual. O arquivo escolhido abre em página inteira, sem voltar ao menu. PDF, TXT e GP.
-
-Atualize os arquivos do projeto no GitHub e aguarde a publicação na Vercel. Abra com internet para receber a atualização. Não apague os dados do navegador nem desinstale o app.
-
-Testes automatizados aprovados. Aparência e gestos em celular, tablet e iPad e pedal físico ainda precisam de teste real.
